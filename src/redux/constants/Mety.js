@@ -1,0 +1,3 @@
+export const GET_METY_REQUEST = 'GET_METY_REQUEST';
+export const GET_METY_SUCCEED = 'GET_METY_SUCCEED';
+export const GET_METY_FAILED = 'GET_METY_FAILED';
